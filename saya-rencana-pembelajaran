@@ -2,8 +2,9 @@ RENCANA PEMBELAJARAN
 
 -html 
   *form
-  *nav + div
-   ^class
-   ^id
+  *nav + list + div
+-database
+-oracle
 -botstrap
 -cloud
+-pyhton
