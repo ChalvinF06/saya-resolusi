@@ -2,7 +2,7 @@ RENCANA PEMBELAJARAN
 
 -html 
   *form
-  *nav + list
+  *nav + list + div
 -database
 -oracle
 -botstrap
