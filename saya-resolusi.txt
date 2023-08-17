@@ -1,5 +1,5 @@
 SAYA RESOLUSI
 -memahami github
 -memahami javascript dasar
--memahami oop
 -memahami flekbox
+-css
