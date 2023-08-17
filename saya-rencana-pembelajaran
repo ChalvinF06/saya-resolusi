@@ -2,7 +2,8 @@ RENCANA PEMBELAJARAN
 
 -html 
   *form
-  *nav
--database
+  *nav + div
+   ^class
+   ^id
 -botstrap
 -cloud
